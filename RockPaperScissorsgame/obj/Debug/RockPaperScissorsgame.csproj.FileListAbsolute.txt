@@ -1,0 +1,10 @@
+C:\Users\melih\source\repos\RockPaperScissorsgame\RockPaperScissorsgame\bin\Debug\RockPaperScissorsgame.exe.config
+C:\Users\melih\source\repos\RockPaperScissorsgame\RockPaperScissorsgame\bin\Debug\RockPaperScissorsgame.exe
+C:\Users\melih\source\repos\RockPaperScissorsgame\RockPaperScissorsgame\bin\Debug\RockPaperScissorsgame.pdb
+C:\Users\melih\source\repos\RockPaperScissorsgame\RockPaperScissorsgame\obj\Debug\RockPaperScissorsgame.Form1.resources
+C:\Users\melih\source\repos\RockPaperScissorsgame\RockPaperScissorsgame\obj\Debug\RockPaperScissorsgame.Properties.Resources.resources
+C:\Users\melih\source\repos\RockPaperScissorsgame\RockPaperScissorsgame\obj\Debug\RockPaperScissorsgame.csproj.GenerateResource.cache
+C:\Users\melih\source\repos\RockPaperScissorsgame\RockPaperScissorsgame\obj\Debug\RockPaperScissorsgame.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\RockPaperScissorsgame\RockPaperScissorsgame\obj\Debug\RockPaperScissorsgame.exe
+C:\Users\melih\source\repos\RockPaperScissorsgame\RockPaperScissorsgame\obj\Debug\RockPaperScissorsgame.pdb
+C:\Users\melih\source\repos\RockPaperScissorsgame\RockPaperScissorsgame\obj\Debug\RockPaperScissorsgame.csprojAssemblyReference.cache
